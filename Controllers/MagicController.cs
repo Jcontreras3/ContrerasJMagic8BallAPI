@@ -1,6 +1,6 @@
 //Jovann Contreras
 //Date: 10/27/2022
-//Peer reviewed by:
+//Peer reviewed by: Rafael Manzo Program ran then after about 10 populations it would retrun blank, otherwise i enjoyed the functionlty and is pretty cool
 
 
 using System;
