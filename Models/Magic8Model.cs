@@ -7,7 +7,7 @@ namespace Magic8.Models
 {
     public class Magic8Model
     {
-        public string question{get; set;}
+        public string question {get; set;}
 
         public Magic8Model(){}
     }
