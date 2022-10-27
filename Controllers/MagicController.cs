@@ -18,7 +18,7 @@ namespace ContrerasJMagic8BallAPI.Controllers
     {
           [HttpGet]
         [Route("Magic8")]
-        public string MiniCH8(Magic8Model item)
+        public string MagicChallenge(Magic8Model item)
         {
             string response = "";
             int rannum = 0;
