@@ -29,61 +29,61 @@ namespace ContrerasJMagic8BallAPI.Controllers
             {
                 case 1:
                     response = "Maybe";
-                    return response;
+                     break;
                 case 2:
                     response = "Yes";
-                    return response;
+                    break;
                 case 3:
                     response = "Most likely";
-                    return response;
+                     break;
                 case 4:
                     response = "Uncertain";
-                    return response;
+                     break;
                 case 5:
                     response = "No";
-                    return response;
+                    break;
                 case 6:
                     response = "Could happen";
-                    return response;
+                    break;
                 case 7:
                     response = "Chances are low";
-                    return response;
+                    break;
                 case 8:
                     response = "Don't count on it";
-                    return response;
+                    break;
                 case 9:
                     response = "Definitley";
-                    return response;
+                     break;
                 case 10:
                     response = "Ask again later";
-                    return response;
+                     break;
                 case 11:
                     response = "Do not know right now";
-                    return response;
+                    break;
                 case 12:
                     response = "Answer is still no";
-                    return response;
+                   break;
                 case 14:
                     response = "As I see it yes";
-                    return response;
+                    break;
                 case 15:
                     response = "Don't ask again";
-                    return response;
+                    break;
                 case 16:
                     response = "Outlook not so good";
-                    return response;
+                   break;
                 case 17:
                     response = "My reply is no";
-                    return response;
+                    break;
                 case 18:
                     response = "Doubtful";
-                    return response;
+                    break;
                 case 19:
                     response = "Without a doubt";
-                    return response;
+                   break;
                 case 20:
                     response = "Dont get your hopes up";
-                    return response;
+                 break;
             }
             return response;
         }
